@@ -1,11 +1,5 @@
-<font size="6"
-          face="verdana"
-          color="green">
-            # HOW TO DOWNLOAD AND INSTALL
-        </font>
-
-
-
+# HOW TO DOWNLOAD AND INSTALL
+      
 1) CLICK ON THE GREEN COLOURED BUTTON NAMED CODE AND DOWNLOAD THE ZIP FILES
 2) UNZIP THE ZIP FILES
 
